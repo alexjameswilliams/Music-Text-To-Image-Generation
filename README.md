@@ -10,4 +10,4 @@ This work is presented in:
 
 Alexander Williams, Stefan Lattner, and Mathieu Barthet. 2023. _Sound-and-Image-informed Music Artwork Generation Using Text-to-Image Models_. In Music Recommender Systems Workshop at the 17th ACM Conference on Recommender Systems, September 18–22, 2023, Singapore. ACM, New York,NY, USA, 5 pages.
 
-[Link to paper available soon]
+Paper is available here: https://www.researchgate.net/publication/374263758_Sound-and-Image-informed_Music_Artwork_Generation_Using_Text-to-Image_Models
